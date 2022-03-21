@@ -1,0 +1,4 @@
+epoch=0 crossentropy(train): 1.875941432617663
+epoch=0 crossentropy(validation): 2.455587188534413
+error(train): 0.5
+error(validation): 1.0
